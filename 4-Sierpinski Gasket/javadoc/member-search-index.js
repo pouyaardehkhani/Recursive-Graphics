@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SierpinskiGasket","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SierpinskiGasket","l":"recursion(int, double[], double[])","u":"recursion(int,double[],double[])"},{"p":"<Unnamed>","c":"SierpinskiGasket","l":"SierpinskiGasket()","u":"%3Cinit%3E()"}];updateSearchResults();
