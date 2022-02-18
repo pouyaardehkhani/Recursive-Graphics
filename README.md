@@ -1,4 +1,4 @@
-# Recursive-Graphics
+# Recursive-Graphics ![license](https://img.shields.io/github/license/pouyaardehkhani/Recursive-Graphics.svg)
 Creating Graphical images using JAVA.
 
 this project is done by pouya ardehkhani - mokhtari rad.
